@@ -1,0 +1,13 @@
+.tituloRed{
+    color: rgb(255, 0, 0);
+
+}
+
+.tituloGreen{
+    color: green;
+}
+
+
+.tituloItalic{
+    font-style: italic;
+}
